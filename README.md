@@ -88,7 +88,7 @@ The tool uses animations and colored text to enhance user experience:
 ---
 
 ## 🖥️ Demo
-![Demo GIF](demo.gif)
+![Demo GIF]([https://www.arbgit.com/2024/12/facebook-auto-reboot.html](https://www.arbgit.com/2024/12/facebook-auto-reboot.html))
 
 ---
 
