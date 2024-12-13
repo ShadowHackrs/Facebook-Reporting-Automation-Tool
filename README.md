@@ -18,7 +18,7 @@ It also has options to close and fly Facebook groups and pages, and you can repo
 - Multilingual support for English and Arabic reporting options.
 
 ---
-## 🔑 Key Features
+## 🔑 Features and characteristics of the Facebook Auto Reboot reporting tool
 - Report feature from more than one Facebook account.
 - There are Proxys in the tool.
 - You can report on a Facebook profile, group, and public page.
