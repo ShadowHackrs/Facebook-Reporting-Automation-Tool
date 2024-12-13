@@ -1,0 +1,5 @@
+selenium==4.15.2
+termcolor==2.3.0
+webdriver_manager==4.0.1
+requests==2.31.0
+pillow==10.1.0
