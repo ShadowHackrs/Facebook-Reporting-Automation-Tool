@@ -1,5 +1,8 @@
 # Facebook Reporting Automation Tool
 
+![Logo](https://github.com/ShadowHackrs/Facebook-Reporting-Automation-Tool/blob/435830cdad6e56400ff9c24845f9d876bbab7e99/Screenshot%202024-12-12%20182316.png)
+
+
 ## 🌟 Introduction
 This tool automates reporting inappropriate accounts, pages, or groups on Facebook using Selenium WebDriver. It simplifies the process of submitting multiple reports with enhanced button detection for menus and reporting options. Ideal for managing safety and combating abuse on the platform.
 The Facebook account reporting tool is very powerful because it was designed in a very smart way to deceive Facebook algorithms and robots, and also make them believe that it was reported from more than one account and device, and it is also integrated with artificial intelligence, meaning that it can know on its own when to report and how much and know the methods of reporting automatically and determine a post that you think is different from searching in his account alone, and it is also integrated with proxy.
