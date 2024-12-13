@@ -98,7 +98,7 @@ Feel free to contribute to this project by creating pull requests or reporting i
 ---
 
 ## 📞 Contact & Ownership
-Developed by [Your Name].
+Developed by [ShadowHackrs].
 
 **Website**: [https://www.arbgit.com](https://www.arbgit.com)  
 **Facebook**: [https://www.facebook.com/Tareq.DJX](https://www.facebook.com/Tareq.DJX)   
