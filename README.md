@@ -2,7 +2,9 @@
 
 ## 🌟 Introduction
 This tool automates reporting inappropriate accounts, pages, or groups on Facebook using Selenium WebDriver. It simplifies the process of submitting multiple reports with enhanced button detection for menus and reporting options. Ideal for managing safety and combating abuse on the platform.
+The Facebook account reporting tool is very powerful because it was designed in a very smart way to deceive Facebook algorithms and robots, and also make them believe that it was reported from more than one account and device, and it is also integrated with artificial intelligence, meaning that it can know on its own when to report and how much and know the methods of reporting automatically and determine a post that you think is different from searching in his account alone, and it is also integrated with proxy.
 
+It also has options to close and fly Facebook groups and pages, and you can report from more than one account and many wonderful features that you will find in the Facebook Auto Reboot tool in carrying many features and characteristics that you will discover for yourself when you try the tool.
 ---
 
 ## 🔑 Key Features
@@ -12,6 +14,15 @@ This tool automates reporting inappropriate accounts, pages, or groups on Facebo
 - Enhanced element detection for better compatibility with Facebook UI.
 - Multilingual support for English and Arabic reporting options.
 
+---
+## 🔑 Key Features
+- Report feature from more than one Facebook account.
+- There are Proxys in the tool.
+- You can report on a Facebook profile, group, and public page.
+- You can report on more than one group and profile.
+- The tool is anti-ban.
+- It has artificial intelligence integrated with it
+- The tool is very smart and understands where the reporting buttons are manually
 ---
 
 ## 🛠️ Installation
@@ -44,7 +55,7 @@ Place the WebDriver executable in your PATH or in the project folder.
 
 ### 1. Run the Tool
 ```bash
-$ python report_tool.py
+$ python facebook_v3.py
 ```
 
 ### 2. Enter Details
@@ -86,12 +97,11 @@ Feel free to contribute to this project by creating pull requests or reporting i
 ## 📞 Contact & Ownership
 Developed by [Your Name].
 
-**Website**: [yourwebsite.com](http://yourwebsite.com)  
-**Email**: your-email@example.com  
-**GitHub**: [yourusername](https://github.com/yourusername)  
+**Website**: [yourwebsite.com](https://www.arbgit.com)  
+**Facebook**: [](https://www.facebook.com/Tareq.DJX)   
 **Social Media**:  
-- [Twitter](https://twitter.com/yourusername)  
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [Twitter](https://x.com/ShadowHackrs)  
+- [Instagram](https://www.instagram.com/shadowhackr)
 
 ---
 
