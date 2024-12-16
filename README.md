@@ -32,7 +32,7 @@ It also has options to close and fly Facebook groups and pages, and you can repo
 
 ### 1. Clone the Repository
 ```bash
-$ git clone https://github.com/yourusername/facebook-reporting-tool.git
+$ git clone https://github.com/ShadowHackrs/facebook-reporting-tool.git
 $ cd facebook-reporting-tool
 ```
 
