@@ -48,7 +48,7 @@ The required libraries are listed in the `requirements.txt` file:
 - `termcolor`
 
 ### 3. Download WebDriver
-Download the Chrome WebDriver compatible with your Chrome browser version from [here](https://sites.google.com/a/chromium.org/chromedriver/).
+Download the Chrome WebDriver compatible with your Chrome browser version from [here](https://sites.google.com/chromium.org/driver/downloads?authuser=0).
 
 Place the WebDriver executable in your PATH or in the project folder.
 
