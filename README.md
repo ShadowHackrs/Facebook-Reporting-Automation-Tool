@@ -88,7 +88,7 @@ The tool uses animations and colored text to enhance user experience:
 ---
 
 ## 🖥️ Demo
-[here](https://www.arbgit.com/2024/12/facebook-auto-reboot.html).
+[here](https://www.shadowhackr.com/2024/12/facebook-auto-reboot.html).
 
 ---
 
@@ -100,7 +100,7 @@ Feel free to contribute to this project by creating pull requests or reporting i
 ## 📞 Contact & Ownership
 Developed by [ShadowHackrs].
 
-**Website**: [https://www.arbgit.com](https://www.arbgit.com)  
+**Website**: [https://www.arbgit.com](https://www.shadowhackr.com)  
 **Facebook**: [https://www.facebook.com/Tareq.DJX](https://www.facebook.com/Tareq.DJX)   
 **Social Media**:  
 - [Twitter](https://x.com/ShadowHackrs)  
